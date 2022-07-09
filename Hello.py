@@ -25,5 +25,5 @@ fav_pizza = {
 	"Joe": "pineapple"
 }
 
-print (Age)
+print (first_name)
 print (names) 

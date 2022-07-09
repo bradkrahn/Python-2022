@@ -1,3 +1,7 @@
+#updated code
+#by brad krahn
+
+
 import os
 os.system('clear')
 
